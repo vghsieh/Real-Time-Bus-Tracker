@@ -27,6 +27,7 @@ async function getBusData() {
   return json;
 }
 
+
 function moveMarker(locations) {
   marker.setLngLat([locations[0], locations[1]]);
   marker.addTo(map);
