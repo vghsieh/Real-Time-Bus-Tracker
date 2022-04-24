@@ -4,3 +4,6 @@ This is a map animation exercise from Week 9. Utilizing the MBTA public API key 
 
 ## Installation
 The page for this project can be located [here](https://vghsieh.github.io/mapanimation/)
+
+## Usage
+Click on "Click me!" to get the marker moving in the map
