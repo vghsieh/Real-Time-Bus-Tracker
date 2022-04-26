@@ -9,3 +9,8 @@ The page for this project can be located [here](https://vghsieh.github.io/Real-T
 
 ## Usage
 A map of Boston and surrounding cities will load, centered on Cambridge, MA. When you click on "Click me!" button, a blue marker will show up at the location of where a specific bus is. Every 5 seconds, the marker should move along the bus route.  To zoom in and out, scroll up and down on the mouse wheel. 
+
+## Roadmap
+Future ideas:
+- have additional buttons that show the path a bus will take, and where the bus is currently located on the path
+- try the exercise on a different city (NYC MTA)
