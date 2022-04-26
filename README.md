@@ -14,3 +14,7 @@ A map of Boston and surrounding cities will load, centered on Cambridge, MA. Whe
 Future ideas:
 - have additional buttons that show the path a bus will take, and where the bus is currently located on the path
 - try the exercise on a different city (NYC MTA)
+
+## License Information
+
+MIT licensed
